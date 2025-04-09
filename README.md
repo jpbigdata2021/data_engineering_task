@@ -85,7 +85,7 @@ By now you would have already have below things in place:
 
 ## Submission:
  
-Once you have completed your work, share an invite of **your own** GitHub repo to **aacoe.techprojects@gmail.com**, and send out an email to our hiring team. 
+Once you have completed your work, share an invite of **your own** GitHub repo to **projectsfordatachapter@gmail.com**, and send out an email to our hiring team. 
 We will review your work.
 
 # Happy Coding!!
