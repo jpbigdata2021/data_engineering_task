@@ -28,4 +28,3 @@
 	
    	![spark-master-ui](https://github.com/ProjectsForDataChapter/data_engineering_takehome1/blob/main/pictures/spark-master-ui.png)
 
-
